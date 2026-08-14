@@ -21,19 +21,6 @@ Lipinski's Rule of Five and SwissADME.
 4. Lipinski's Rule of Five parameters were assessed.
 5. Molecular structures were visualized using PyMOL.
 
+**3D structures were downloaded from PubChem in SDF format and visualized using PyMOL.**
+
 ## Results
-
-All five compounds passed Lipinski's Rule of Five with zero violations.
-
-| Compound | MW | HBD | HBA | LogP | Ro5 |
-|---|---:|---:|---:|---:|---|
-| Leucine | 131.17 | 2 | 3 | -1.52 | Pass |
-| Alanine | 89.09 | 2 | 3 | -2.96 | Pass |
-| Valine | 117.15 | 2 | 3 | -2.26 | Pass |
-| Isoleucine | 131.17 | 2 | 3 | -1.72 | Pass |
-| Glutamic acid | 147.13 | 3 | 5 | -3.69 | Pass |
-
-## Conclusion
-
-All five compounds met the criteria of Lipinski's Rule of Five,
-with no violations observed.
